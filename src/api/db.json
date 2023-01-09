@@ -1,0 +1,58 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "class": "common",
+        "pricePerShare": 0,
+        "exitVal": 0
+      },
+      {
+        "id": 2,
+        "class": "a",
+        "pricePerShare": 0,
+        "exitVal": 0
+      },
+      {
+        "id": 3,
+        "class": "a1",
+        "pricePerShare": 0,
+        "exitVal": 0
+      },
+      {
+        "id": 4,
+        "class": "common",
+        "pricePerShare": 0,
+        "exitVal": 5
+      },
+      {
+        "id": 5,
+        "class": "a",
+        "pricePerShare": 4,
+        "exitVal": 7
+      },
+      {
+        "id": 6,
+        "class": "a1",
+        "pricePerShare": 2,
+        "exitVal": 9
+      },
+      {
+        "id": 7,
+        "class": "common",
+        "pricePerShare": 12,
+        "exitVal": 13
+      },
+      {
+        "id": 8,
+        "class": "a",
+        "pricePerShare": 12,
+        "exitVal": 13
+      },
+      {
+        "id": 9,
+        "class": "a1",
+        "pricePerShare": 18,
+        "exitVal": 13
+      }
+    ]
+}
