@@ -1,10 +1,12 @@
-import logo from './logo.svg';
-import './App.css';
+import { PageBackground } from './Styles';
+import { useState, useEffect } from 'react';
+import { useDataFetcher } from './hooks/dataFetcher';
 
 function App() {
+  const [chartData, setChartData] = useState({});
   return (
-    <div className="App">
-    </div>
+    <PageBackground>
+    </PageBackground>
   );
 }
 
